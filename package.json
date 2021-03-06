@@ -1,7 +1,7 @@
 {
   "name": "homebridge-sharptv",
   "version": "1.0.0",
-  "description": "An example accessory plugin for homebridge written in Typescript",
+  "description": "SharpTV powerControl plugin for homebridge written in Typescript",
   "main": "dist/accessory.js",
   "scripts": {
     "clean": "rimraf ./dist",
@@ -24,10 +24,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hoebridge/homebridge-examples.git"
+    "url": "git://github.com/bahcecihakan/homebridge-sharptv.git"
   },
   "bugs": {
-    "url": "http://github.com/homebridge/homebridge-examples/issues"
+    "url": "http://github.com/bahcecihakan/homebridge-sharptv/issues"
   },
   "devDependencies": {
     "@types/node": "10.17.19",
